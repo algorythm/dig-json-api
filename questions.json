@@ -1,0 +1,101 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "question": "Hvor får du primært udbetalt penge fra?"
+      }, {
+          "id": 2,
+          "question": "Forventer du at sætte kontanter (sedler og mønter) ind på din konto?"
+      }, {
+          "id": 3,
+          "question": "Hvor mange kontanter (Sedler og mønter) forventer du at sætte ind på din konto om året?"
+      }, {
+          "id": 4,
+          "question": "Hvor stammer de kontanter, du forventer at sætte ind på din konto, fra?"
+      }, {
+          "id": 5,
+          "question": "Forventer du at overføre / modtage penge til/fra udlandet?"
+      }
+  ],
+  "answers": [
+      {
+          "id": 1,
+          "question_id": 1,
+          "goto_question_id": 2,
+          "answer": "Løn og offentlige ydelser",
+          "blocking": false
+      }, {
+          "id": 2,
+          "question_id": 1,
+          "goto_question_id": 2,
+          "answer": "Pension",
+          "blocking": false
+      }, {
+          "id": 3,
+          "question_id": 1,
+          "goto_question_id": 2,
+          "answer": "Formueafkast",
+          "blocking": false
+      }, {
+          "id": 4,
+          "question_id": 1,
+          "goto_question_id": 2,
+          "answer": "Andet",
+          "blocking": false
+      }, {
+          "id": 5,
+          "question_id": 2,
+          "goto_question_id": 3,
+          "answer": "Ja",
+          "blocking": false
+      }, {
+          "id": 6,
+          "question_id": 2,
+          "goto_question_id": 5,
+          "answer": "Nej",
+          "blocking": false
+      }, {
+          "id": 7,
+          "question_id": 3,
+          "goto_question_id": 4,
+          "answer": "1-5.000 kr",
+          "blocking": false
+      }, {
+          "id": 8,
+          "question_id": 4,
+          "goto_question_id": 5,
+          "answer": "Loppemarked",
+          "blocking": false
+      }, {
+          "id": 9,
+          "question_id": 4,
+          "goto_question_id": 5,
+          "answer": "Gaver",
+          "blocking": false
+      }, {
+          "id": 10,
+          "question_id": 4,
+          "goto_question_id": 5,
+          "answer": "Regelmæssigt salg af biler m.m.",
+          "blocking": false
+      }, {
+          "id": 11,
+          "question_id": 4,
+          "goto_question_id": 5,
+          "answer": "øvrige",
+          "blocking": false
+      }, {
+          "id": 12,
+          "question_id": 5,
+          "goto_question_id": null,
+          "answer": "Ja",
+          "blocking": true
+      }, {
+          "id": 13,
+          "question_id": 5,
+          "goto_question_id": null,
+          "answer": "Nej",
+          "blocking": false
+      }
+  ]
+}

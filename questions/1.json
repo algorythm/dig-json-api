@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": 1,
+    "question": "Hvor får du primært udbetalt penge fra?"
+  },
+  "answers": [{
+      "id": 1,
+      "question_id": 1,
+      "goto_question_id": 2,
+      "answer": "Løn og offentlige ydelser",
+      "blocking": false
+  }, {
+      "id": 2,
+      "question_id": 1,
+      "goto_question_id": 2,
+      "answer": "Pension",
+      "blocking": false
+  }, {
+      "id": 3,
+      "question_id": 1,
+      "goto_question_id": 2,
+      "answer": "Formueafkast",
+      "blocking": false
+  }, {
+      "id": 4,
+      "question_id": 1,
+      "goto_question_id": 2,
+      "answer": "Andet",
+      "blocking": false
+  }]
+}

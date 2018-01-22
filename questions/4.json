@@ -1,0 +1,32 @@
+{
+  "question": {
+    "id": 4,
+    "question": "Hvor stammer de kontanter, du forventer at sætte ind på din konto, fra?"
+  },
+  "answers": [{
+    "id": 8,
+    "question_id": 4,
+    "goto_question_id": 5,
+    "answer": "Loppemarked",
+    "blocking": false
+  }, {
+    "id": 9,
+    "question_id": 4,
+    "goto_question_id": 5,
+    "answer": "Gaver",
+    "blocking": false
+  }, {
+    "id": 10,
+    "question_id": 4,
+    "goto_question_id": 5,
+    "answer": "Regelmæssigt salg af biler m.m.",
+    "blocking": false
+  }, {
+    "id": 11,
+    "question_id": 4,
+    "goto_question_id": 5,
+    "answer": "øvrige",
+    "blocking": false
+  }]
+}
+

@@ -1,0 +1,19 @@
+{
+  "question": {
+    "id": 5,
+    "question": "Forventer du at overføre / modtage penge til/fra udlandet?"
+  },
+  "answers": [{
+    "id": 12,
+    "question_id": 5,
+    "goto_question_id": null,
+    "answer": "Ja",
+    "blocking": true
+  }, {
+    "id": 13,
+    "question_id": 5,
+    "goto_question_id": null,
+    "answer": "Nej",
+    "blocking": false
+  }]
+}

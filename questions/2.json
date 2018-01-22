@@ -1,0 +1,19 @@
+{
+  "question": {
+    "id": 1,
+    "question": "Forventer du at sætte kontanter (sedler og mønter) ind på din konto?"
+  },
+  "answers": [{
+    "id": 5,
+    "question_id": 2,
+    "goto_question_id": 3,
+    "answer": "Ja",
+    "blocking": false
+  }, {
+    "id": 6,
+    "question_id": 2,
+    "goto_question_id": 5,
+    "answer": "Nej",
+    "blocking": false
+  }]
+}

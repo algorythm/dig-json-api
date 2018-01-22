@@ -1,0 +1,15 @@
+{
+  "question": {
+    "id": 3,
+    "question": "Hvor mange kontanter (Sedler og mønter) forventer du at sætte ind på din konto om året?"
+  },
+  "answers": [{
+    "id": 7,
+    "question_id": 3,
+    "goto_question_id": 4,
+    "answer": "1-5.000 kr",
+    "blocking": false
+  }]
+}
+
+
