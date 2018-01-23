@@ -1,0 +1,19 @@
+{
+  "question": {
+    "id": 6,
+    "question": "Endnu et spørgsmål?"
+  },
+  "answers": [{
+    "id": 14,
+    "question_id": 6,
+    "goto_question_id": null,
+    "answer": "Ja",
+    "blocking": false
+  }, {
+    "id": 15,
+    "question_id": 6,
+    "goto_question_id": null,
+    "answer": "Ja",
+    "blocking": false
+  }]
+}
