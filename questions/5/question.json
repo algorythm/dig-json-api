@@ -12,7 +12,7 @@
   }, {
     "id": 13,
     "question_id": 5,
-    "goto_question_id": null,
+    "goto_question_id": 6,
     "answer": "Nej",
     "blocking": false
   }]
