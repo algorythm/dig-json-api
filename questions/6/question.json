@@ -1,8 +1,6 @@
 {
-  "question": {
-    "id": 6,
-    "question": "Endnu et spørgsmål?"
-  },
+  "id": 6,
+  "question": "Endnu et spørgsmål?",
   "answers": [{
     "id": 14,
     "question_id": 6,

@@ -1,8 +1,6 @@
 {
-  "question": {
-    "id": 2,
-    "question": "Forventer du at sætte kontanter (sedler og mønter) ind på din konto?"
-  },
+  "id": 2,
+  "question": "Forventer du at sætte kontanter (sedler og mønter) ind på din konto?",
   "answers": [{
     "id": 5,
     "question_id": 2,

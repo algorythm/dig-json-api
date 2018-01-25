@@ -1,8 +1,6 @@
 {
-  "question": {
-    "id": 5,
-    "question": "Forventer du at overføre / modtage penge til/fra udlandet?"
-  },
+  "id": 5,
+  "question": "Forventer du at overføre / modtage penge til/fra udlandet?",
   "answers": [{
     "id": 12,
     "question_id": 5,

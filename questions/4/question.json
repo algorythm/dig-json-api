@@ -1,8 +1,6 @@
 {
-  "question": {
-    "id": 4,
-    "question": "Hvor stammer de kontanter, du forventer at sætte ind på din konto, fra?"
-  },
+  "id": 4,
+  "question": "Hvor stammer de kontanter, du forventer at sætte ind på din konto, fra?",
   "answers": [{
     "id": 8,
     "question_id": 4,
@@ -29,4 +27,3 @@
     "blocking": false
   }]
 }
-
